@@ -14,7 +14,7 @@ import Button from './Button'
 
 const Navbar = () => {
   return (
-    <div className='w-full flex items-center justify-start lg:px-[50] 3xl:px-100 gap-[100px] px-[40px] py-[20px]'>
+    <div className='w-full flex items-center justify-center lg:px-[50] 3xl:px-100 gap-[300px] px-[40px] py-[20px]'>
             <div className='flex items-center gap-1'>
                 <Link href="/">
                     <Image src="/Group2.png" alt="logo" width={20} height={20}/>
