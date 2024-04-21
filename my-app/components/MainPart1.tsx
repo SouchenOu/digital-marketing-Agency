@@ -3,7 +3,7 @@ import React from 'react'
 
 const MainPart1 = () => {
   return (
-    <section className='border-2 border-red-700 xl:flex lg:flex items-center py-[100px] h-full xl:px-[400px] lg:px-[200px]  gap-[200px] overflow-auto px-20'>
+    <section className='xl:flex lg:flex items-center py-[100px] h-full xl:px-[400px] lg:px-[200px]  gap-[200px] overflow-auto px-20'>
         <div className='flex flex-col gap-[20px]'>
                 <div className='flex flex-col items-center justify-start gap-[20px] xl:w-[600px] px-[2Opx]'>
                     <h1 className='text-[60px] font-[400] flex-row'>Stay ahead of the curve with our forward-thinking </h1>
