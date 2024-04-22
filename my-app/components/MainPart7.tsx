@@ -4,7 +4,7 @@ import React from 'react'
 
 const MainPart7 = () => {
   return (
-    <section className='border-2 border-red-600 p-[100px]'>
+    <section className=' p-[100px]'>
         <div className='flex items-center justify-between gap-[20px]'>
             <div className='flex flex-col i  gap-[70px] py-[30px]  rounded-full w-[500px]'>
                 <div className='flex items-center justify-between gap-[20px]'>

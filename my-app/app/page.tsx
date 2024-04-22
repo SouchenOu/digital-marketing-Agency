@@ -6,6 +6,8 @@ import MainPart4 from "@/components/MainPart4";
 import MainPart5 from "@/components/MainPart5";
 import MainPart6 from "@/components/MainPart6";
 import MainPart7 from "@/components/MainPart7";
+import MainPart8 from "@/components/MainPart8";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -17,6 +19,8 @@ export default function Home() {
       <MainPart5/>
       <MainPart6/>
       <MainPart7/>
+      <MainPart8/>
+      
     </div>
   );
 }
