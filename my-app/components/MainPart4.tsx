@@ -4,7 +4,7 @@ import React from 'react'
 
 const MainPart4 = () => {
   return (
-    <section className=' p-[100px] flex flex-col gap-[50px] '>
+    <section className=' p-[100px] flex flex-col gap-[50px] bg-gray-100 '>
       <h1 className='text-[40px] font-[800]'>“ They thoroughly analyze our industry and target audience,
          allowing them to develop customized campaigns that effectively reach and 
          engage our customers. Their creative ideas and cutting-edge techniques have helped us stay ahead of the competition.”</h1>

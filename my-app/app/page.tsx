@@ -4,6 +4,8 @@ import Image from "next/image";
 import MainPart3 from "../components/MainPart3";
 import MainPart4 from "@/components/MainPart4";
 import MainPart5 from "@/components/MainPart5";
+import MainPart6 from "@/components/MainPart6";
+import MainPart7 from "@/components/MainPart7";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
       <MainPart3/>
       <MainPart4/>
       <MainPart5/>
+      <MainPart6/>
+      <MainPart7/>
     </div>
   );
 }

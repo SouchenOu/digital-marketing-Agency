@@ -3,7 +3,7 @@ import React from 'react'
 
 const MainPart3 = () => {
   return (
-    <section className='items-center justify-center p-[100px]'>
+    <section className='items-center justify-center p-[100px] bg-gray-100'>
         <div className='bg-gradient-to-b from-black via-gray-800 to-black h-[1000px] px-[100px] rounded-xl flexflex-col gap-[30px]'>
           <div className='flex flex-col gap-[30px] '>
               <h1 className='xl:text-[70px] xl:font-[500] text-[30px] font-[500] text-white w-full ' > Real-world examples of how we have helped companies achieve their marketing objectives.</h1>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const MainPart5 = () => {
   return (
-    <section className='flex items-center justify-center border-2 border-red-600 px-[200px] py-[40px] gap-[300px]'>
+    <section className='flex items-center justify-center  px-[200px] py-[40px] gap-[300px]'>
         <div className='flex flex-col items-start justify-start gap-[20px] w-[800px]'>
             <h1 className='text-[40px] font-[400] '>Digital Marketing FAQs</h1>
             <p className='text-[20px] font-[300] text-gray-500'>As a leading digital marketing agency, we are dedicated to providing comprehensive educational resources and answering frequently asked questions to help our clients.</p>
