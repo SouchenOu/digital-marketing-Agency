@@ -7,20 +7,17 @@
 ![Screenshot from 2024-04-22 12-52-02](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/31286e10-d384-4c8c-8f7f-dbbb536cf317)
 
 
-
-![Screenshot from 2024-04-22 12-52-07](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/6d4e522b-1d4e-40f9-aa87-2b6a2cde475f)
-
-
-
-![Screenshot from 2024-04-22 12-52-12](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/2fb27d7e-c6a4-4317-b1ec-329d40744bd1)
+![Screenshot from 2024-04-22 12-52-31](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/49c59d38-a405-4fb3-87b6-ada4824d5478)
 
 
 
-![Screenshot from 2024-04-22 12-52-23](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/52b01e93-83fb-48a0-a639-82b8ecb942b5)
+
+![Screenshot from 2024-04-22 12-56-45](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/bba14816-bccd-430d-8e81-79acd701d887)
 
 
 
-![Screenshot from 2024-04-22 12-52-27](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/c5c1caca-a9c9-4611-8983-b830804a08c8)
+![Screenshot from 2024-04-22 12-56-55](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/b6b89f72-ab23-4694-814b-33cac34bd8b6)
 
 
-![Screenshot from 2024-04-22 12-52-31](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/03793dba-55d3-4ad7-b1e7-e01ab9f0a04d)
+
+![Screenshot from 2024-04-22 12-57-05](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/eaa5a634-44a2-4143-9025-daca5cb73156)
