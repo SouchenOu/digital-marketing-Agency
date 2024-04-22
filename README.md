@@ -7,7 +7,6 @@
 ![Screenshot from 2024-04-22 12-52-02](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/31286e10-d384-4c8c-8f7f-dbbb536cf317)
 
 
-![Screenshot from 2024-04-22 12-52-31](https://github.com/SouchenOu/digital-marketing-Agency/assets/87101785/49c59d38-a405-4fb3-87b6-ada4824d5478)
 
 
 
