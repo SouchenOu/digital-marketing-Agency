@@ -4,9 +4,9 @@ import React from 'react'
 
 const MainPart7 = () => {
   return (
-    <section className=' p-[100px]'>
-        <div className='flex items-center justify-between gap-[20px]'>
-            <div className='flex flex-col i  gap-[70px] py-[30px]  rounded-full w-[500px]'>
+    <section className=' p-[100px] bg-gray-300'>
+        <div className='xl:flex items-center justify-between xl:gap-[20px] gap-[50px]'>
+            <div className='flex flex-col  gap-[70px] py-[30px]  rounded-full w-[500px] border-b-8 border-black'>
                 <div className='flex items-center justify-between gap-[20px]'>
                     <span className='border-2 border-blue-400 rounded-[50%] w-[20px] h-[20px] text-blue-400 ' style={{background : '#45A7DE'}}></span>
                     <h1 className='text-gray-500 text-[20px] font-[300]'>5 min read</h1>
@@ -23,7 +23,7 @@ const MainPart7 = () => {
 
 
             </div>
-            <div className='flex flex-col i  gap-[70px] py-[30px]  rounded-full w-[500px]'>
+            <div className='flex flex-col  gap-[70px] p-[40px]  rounded-full w-[500px] border-b-8 border-black'>
                 <div className='flex items-center justify-between gap-[20px]'>
                     <span className='border-2 border-orange-500 rounded-[50%] w-[20px] h-[20px] text-orange-400 ' style={{background : '#EA5F38'}}></span>
                     <h1 className='text-gray-500 text-[20px] font-[300]'>5 min read</h1>
@@ -40,7 +40,7 @@ const MainPart7 = () => {
 
 
             </div>
-            <div className='flex flex-col i  gap-[70px] py-[30px]  rounded-full w-[500px]'>
+            <div className='flex flex-col  gap-[70px] p-[30px]  rounded-full w-[500px] border-b-8 border-black'>
                 <div className='flex items-center justify-between gap-[20px]'>
                     <span className='border-2 border-gray-400 rounded-[50%] w-[20px] h-[20px] text-gray-400 ' style={{background : '#6A26F1'}}></span>
                     <h1 className='text-gray-500 text-[20px] font-[300]'>5 min read</h1>

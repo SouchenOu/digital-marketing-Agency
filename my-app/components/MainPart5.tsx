@@ -2,8 +2,8 @@ import React from 'react'
 
 const MainPart5 = () => {
   return (
-    <section className='flex items-center justify-center  px-[200px] py-[40px] gap-[300px]'>
-        <div className='flex flex-col items-start justify-start gap-[20px] w-[800px]'>
+    <section className='xl:flex items-center justify-center  xl:px-[200px] xl:py-[40px] xl:gap-[300px] p-[50px] gap-[80px]'>
+        <div className='flex flex-col items-start justify-start gap-[20px] xl:w-[800px]'>
             <h1 className='text-[40px] font-[400] '>Digital Marketing FAQs</h1>
             <p className='text-[20px] font-[300] text-gray-500'>As a leading digital marketing agency, we are dedicated to providing comprehensive educational resources and answering frequently asked questions to help our clients.</p>
             <div className='flex gap-[20px]'>
@@ -12,7 +12,7 @@ const MainPart5 = () => {
             </div>
 
         </div>
-        <div className='flex flex-col gap-[20px] w-[630px]'>
+        <div className='flex flex-col gap-[20px] xl:w-[630px] py-[100px]'>
             <div className="h-[1px] w-150 bg-black"></div>
             <div className='flex items-center justify-between gap-[40px]'>
                 <h1 className='text-[30px] font-bold '>Why is digital marketing important for my business?</h1>

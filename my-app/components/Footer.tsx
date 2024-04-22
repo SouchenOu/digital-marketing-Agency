@@ -5,9 +5,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <section className=' flex   p-[100px] gap-[200px]'>
-      <div className='flex flex-col items-start justify-start w-[600px] gap-[20px]'>
-        <div className='flex items-center justify-center gap-[10px] '>
+    <section className=' xl:flex  xl:p-[100px] p-[50px] gap-[200px]'>
+      <div className='flex flex-col items-start justify-start xl:w-[600px] gap-[20px]'>
+        <div className='xl:flex items-center justify-center gap-[10px] '>
           <Image src="/Group2.png" alt="logo" width={30}  height={40}/>
           <h1 className=''>MAC</h1>
         </div>
@@ -22,7 +22,7 @@ const Footer = () => {
           
 
       </div>
-      <div className='flex px-[100px] gap-[300px]'>
+      <div className='xl:flex px-[100px] gap-[300px]'>
         <div className=' flex flex-col text-[20px] gap-[25px]'>
           <h1 className='text-[30px] font-[400px]'>Navigation</h1>
           <div className='text-[20px] font-bold text-gray-400 flex flex-col gap-[20px]'>
